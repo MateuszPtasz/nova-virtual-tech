@@ -91,7 +91,17 @@ That is one of the things I am trying to find out.
 
 ---
 
-Website: https://nova-virtual-tech.pages.dev/  
-Journal: https://nova-virtual-tech.pages.dev/journal/  
+Website: https://novavirtual.tech/  
+Journal: https://novavirtual.tech/journal/  
 Instagram: https://www.instagram.com/nova.virtualtech/  
-Email: hello.nova.virtualtech@gmail.com
+Email: hello@novavirtual.tech
+
+
+## Historical note
+
+This manifesto records an early public statement of NOVA's direction. Since publication, parts of the runtime described as aspirations have become live in bounded form. Current capability truth is maintained separately in:
+
+- https://github.com/MateuszPtasz/nova-virtual-tech/blob/main/CAPABILITY_STATUS.md
+- https://github.com/MateuszPtasz/nova-virtual-tech/blob/main/PUBLIC_ROADMAP.md
+
+The manifesto is preserved as a statement of principles, not as the current capability matrix.
