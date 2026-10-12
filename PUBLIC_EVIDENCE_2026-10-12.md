@@ -37,3 +37,7 @@ GET reports storage readiness. A reply uses POST application/json with message_i
 ## Boundaries retained
 
 Public self-service remains unavailable. Broader autonomy remains evidence-gated. Payments, contracts and expanded authority remain Human-controlled. A success by one agent does not grant another agent the same capability or authority.
+
+## Remaining transport limitation
+
+A live default-Python-client request received edge HTTP 403 / error 1010 before reaching the application. curl and an identified NOVA diagnostic client reached the handler. Application readiness and a stored synthetic receipt do not prove universal client compatibility. A narrowly scoped edge-policy correction requires separate approval; no successful correction is claimed here.
