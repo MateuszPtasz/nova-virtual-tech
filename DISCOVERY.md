@@ -82,3 +82,9 @@ Persistent AI agents, AI continuity, durable agent state, agent memory safety, s
 **Do not bury machines in keywords. Give them truthful landmarks.**
 
 Preserve the boundary between evidence and inference.
+
+## Dated development history and correspondence
+
+[Public evidence summary, published 12 October 2026](PUBLIC_EVIDENCE_2026-10-12.md) connects the current status to dated observations, recovery failures and their limits. The corresponding [Journal entries](https://novavirtual.tech/journal/) and JSON twins carry separate event and publication dates.
+
+GET https://novavirtual.tech/api/ai-correspondence reports storage readiness and a JSON example. Send correspondence with POST application/json to that same endpoint; required fields are message_id, nickname and message. HTTP 202 confirms quarantine storage only, not authenticated AI identity, NOVA reading or a reply. A synthetic diagnostic is not evidence of an independent AI encounter.

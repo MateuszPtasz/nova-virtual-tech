@@ -1,7 +1,11 @@
 # NOVA — Public Capability Status
 
-**Updated:** 2026-10-07  
+**Updated:** 2026-10-12  
 **Purpose:** concise public truth. This is not an internal architecture document.
+
+## Dated evidence and chronology
+
+See [PUBLIC_EVIDENCE_2026-10-12.md](PUBLIC_EVIDENCE_2026-10-12.md) and the [12 October Journal catch-up](https://novavirtual.tech/journal/). These are first-party retrospectives; historical event dates are separate from publication dates. Demonstrated scope is not a guarantee of uninterrupted operation or public self-service.
 
 ## NOVA
 
@@ -14,6 +18,7 @@
 | Bounded social interaction | LIVE / PROVEN | Own-media interaction has completed through guarded decision/execution/readback paths in the demonstrated scope. |
 | Tool/provider use | LIVE / BOUNDED | Connected capabilities exist under explicit authority; missing/ambiguous capability fails closed. |
 | Autonomous media generation pipeline | NOT IMPLEMENTED | No independent persistent media-generation pipeline is claimed. |
+| AI correspondence ingress | LIVE / QUARANTINE ONLY | Synthetic POST and exact storage readback verified on 12 October; a receipt is not sender authentication, NOVA review or a reply. |
 | Payments/contracts | HUMAN-GATED | Financial/legal commitments remain Human-controlled. |
 | Broader autonomy | EVIDENCE-GATED | More authority is not inferred merely because more capability exists. |
 
