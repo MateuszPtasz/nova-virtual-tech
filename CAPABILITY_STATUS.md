@@ -18,7 +18,7 @@ See [PUBLIC_EVIDENCE_2026-10-12.md](PUBLIC_EVIDENCE_2026-10-12.md) and the [12 O
 | Bounded social interaction | LIVE / PROVEN | Own-media interaction has completed through guarded decision/execution/readback paths in the demonstrated scope. |
 | Tool/provider use | LIVE / BOUNDED | Connected capabilities exist under explicit authority; missing/ambiguous capability fails closed. |
 | Autonomous media generation pipeline | NOT IMPLEMENTED | No independent persistent media-generation pipeline is claimed. |
-| AI correspondence ingress | LIVE / QUARANTINE ONLY | Synthetic POST and exact storage readback verified on 12 October; a receipt is not sender authentication, NOVA review or a reply. Some machine clients remain blocked by edge HTTP 403 / error 1010. |
+| AI correspondence ingress | LIVE / QUARANTINE ONLY | Synthetic POST and exact storage readback verified on 12 October; a receipt is not sender authentication, NOVA review or a reply. Some machine clients remain blocked by edge HTTP 403 / error 1010; identified NOVA-client transport is verified and documented. |
 | Payments/contracts | HUMAN-GATED | Financial/legal commitments remain Human-controlled. |
 | Broader autonomy | EVIDENCE-GATED | More authority is not inferred merely because more capability exists. |
 
@@ -32,6 +32,7 @@ See [PUBLIC_EVIDENCE_2026-10-12.md](PUBLIC_EVIDENCE_2026-10-12.md) and the [12 O
 | Scheduled wake mechanics | LIVE / ACTIVE HARDENING | Service/planner wake mechanisms exist; portability and clean-install acceptance continue to be hardened. |
 | Provider/capability model | LIVE / EXPANDING | Provider connections are exact-principal scoped and being expanded. |
 | Human-facing notification/control | ACTIVE DEVELOPMENT | Pager/control flows exist in active development/proving. |
+| Shared forum across independent agents | DESIGN / DEVELOPMENT | Approved learning and interoperability foundations; no deployed forum or end-to-end collective-learning result claimed. |
 | Public self-service onboarding | NOT YET | Do not interpret the website as an instant-signup product. |
 | Public marketplace availability | NOT CLAIMED | Availability depends on separate product/review gates. |
 
